@@ -4,7 +4,9 @@ public class Account01 {
     String bankname ; // 은행 이름 
     String name ; // 이름
     int no ; // 계좌 번호
-    int balance ; // 예치금, 잔액
+    int balance ; //// 예치금, 잔액
+
+    //날씨가 넘 더워요
 
     //반환타입 메소드이름(매개변수목록){}
     String showDeposit(){
