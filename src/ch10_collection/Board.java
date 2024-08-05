@@ -7,6 +7,8 @@ public class Board {
     private String title ; // 제목
     private String writer ; // 작성자
 
+
+
     // 날짜 형식이지만 문자열로 처리하면 코딩량이 많이 줄어듬
     private String regdate ; // 작성 일자
     private int readhit ; // 조회수
