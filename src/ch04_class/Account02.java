@@ -7,6 +7,8 @@ public class Account02 {
     int no ;
     int balance ;
 
+    //청수가 올림
+
     void display() {
         System.out.println( "거래 은행 : " + bankname);
         System.out.println( "예금주 : " + name);
